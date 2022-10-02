@@ -1,0 +1,88 @@
+#main1 {
+    background: #494949f3;
+    margin: 0px;
+    min-height: 1000px;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+}
+
+#bg {
+    background: #2e2e2e;
+    color: white;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    margin: auto;
+    font-size: 1.25vw;
+    background-image: url('../Images/back1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+footer {
+    margin: 10px;
+    color: white;
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+input {
+    width: 25vw;
+    display: block;
+    border: 1px grey solid;
+    /*height: 3vh;*/
+    margin-bottom: 3vh;
+}
+
+.rad {
+    width: fit-content;
+    vertical-align: left;
+    display: inline;
+}
+
+form div {
+    vertical-align: center;
+    width: 70%;
+    margin: 1vw;
+}
+
+#contact {
+    width: 50%;
+    height: fit-content;
+    margin: auto;
+    background-color: rgba(116, 116, 116, 0.644);
+    padding: 2vw;
+} 
+
+#result {
+    width: fit-content;
+    margin: auto;
+    padding: 2vw;
+}
+
+.button {
+    width: fit-content;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);*/
+}
+
+table td {
+    padding: 10px 12px;
+}
+
+table thead tr {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    text-align: left;
+}
+
+
